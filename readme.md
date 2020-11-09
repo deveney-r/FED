@@ -1,5 +1,5 @@
 # Procesverslag
-**Auteur:** -Deveney Rudge-
+**Auteur:** Deveney Rudge
 
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Nb. de standaardstructuur en de spartaanse opmaak zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 
@@ -73,20 +73,20 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus:** -surface plane-
 
-**Je opdracht:** -https://www.asos.com/nl-
+**Je opdracht:** https://www.asos.com/nl/heren
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/screenshot-pagina-1.1.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/screenshot-pagina-1.2.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/screenshot-pagina-1.3.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/screenshot-pagina-1.4.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/screenshot-pagina-1.5.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/screenshot-pagina-1.6.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/screenshot-pagina-1.1.png" width="375px" alt="Screenshot-pagina-1.1">
+<img src="images/screenshot-pagina-1.2.png" width="375px" alt="Screenshot-pagina-1.2">
+<img src="images/screenshot-pagina-1.3.png" width="375px" alt="Screenshot-pagina-1.3">
+<img src="images/screenshot-pagina-1.4.png" width="375px" alt="Screenshot-pagina-1.4">
+<img src="images/screenshot-pagina-1.5.png" width="375px" alt="Screenshot-pagina-1.5">
+<img src="images/screenshot-pagina-1.6.png" width="375px" alt="Screenshot-pagina-1.6">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/screenshot-pagina-2.1.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/screenshot-pagina-2.2.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/screenshot-pagina-2.3.png" width="375px" alt="omschrijving van de pagina">
-<img src="images/screenshot-pagina-2.4.png" width="375px" alt="omschrijving van de pagina">
+<img src="images/screenshot-pagina-2.1.png" width="375px" alt="Screenshot-pagina-2.1">
+<img src="images/screenshot-pagina-2.2.png" width="375px" alt="Screenshot-pagina-2.2">
+<img src="images/screenshot-pagina-2.3.png" width="375px" alt="Screenshot-pagina-2.3">
+<img src="images/screenshot-pagina-2.4.png" width="375px" alt="Screenshot-pagina-2.4">
