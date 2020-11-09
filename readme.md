@@ -78,16 +78,16 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Screenshot(s) van de eerste pagina (small screen):**
 
 
-<img src="images/screenshot-pagina-1.1.png" width="375px" alt="Screenshot-pagina-1.1">
-<img src="images/screenshot-pagina-1.2.png" width="375px" alt="Screenshot-pagina-1.2">
-<img src="images/screenshot-pagina-1.3.png" width="375px" alt="Screenshot-pagina-1.3">
-<img src="images/screenshot-pagina-1.4.png" width="375px" alt="Screenshot-pagina-1.4">
-<img src="images/screenshot-pagina-1.5.png" width="375px" alt="Screenshot-pagina-1.5">
-<img src="images/screenshot-pagina-1.6.png" width="375px" alt="Screenshot-pagina-1.6">
+<img src="images/screenshot-pagina-1.1.jpg" width="375px" alt="Screenshot-pagina-1.1">
+<img src="images/screenshot-pagina-1.2.jpg" width="375px" alt="Screenshot-pagina-1.2">
+<img src="images/screenshot-pagina-1.3.jpg" width="375px" alt="Screenshot-pagina-1.3">
+<img src="images/screenshot-pagina-1.4.jpg" width="375px" alt="Screenshot-pagina-1.4">
+<img src="images/screenshot-pagina-1.5.jpg" width="375px" alt="Screenshot-pagina-1.5">
+<img src="images/screenshot-pagina-1.6.jpg" width="375px" alt="Screenshot-pagina-1.6">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/screenshot-pagina-2.1.png" width="375px" alt="Screenshot-pagina-2.1">
-<img src="images/screenshot-pagina-2.2.png" width="375px" alt="Screenshot-pagina-2.2">
-<img src="images/screenshot-pagina-2.3.png" width="375px" alt="Screenshot-pagina-2.3">
-<img src="images/screenshot-pagina-2.4.png" width="375px" alt="Screenshot-pagina-2.4">
+<img src="images/screenshot-pagina-2.1.jpg" width="375px" alt="Screenshot-pagina-2.1">
+<img src="images/screenshot-pagina-2.2.jpg" width="375px" alt="Screenshot-pagina-2.2">
+<img src="images/screenshot-pagina-2.3.jpg" width="375px" alt="Screenshot-pagina-2.3">
+<img src="images/screenshot-pagina-2.4.jpg" width="375px" alt="Screenshot-pagina-2.4">
