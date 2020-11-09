@@ -78,8 +78,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Screenshot(s) van de eerste pagina (small screen):**
 
 
-<img src="https://github.com/deveney-r/FED/blob/main/images/screenshot-pagina-1.1.jpg" width="375px" alt="Screenshot-pagina-1.1">
-<img src="images/screenshot-pagina-1.2.jpg" width="375px" alt="Screenshot-pagina-1.2">
+<img src="https://github.com/deveney-r/FED/RAW/main/images/screenshot-pagina-1.1.jpg" width="375px" alt="Screenshot-pagina-1.1">
+<img src="images/screenshot-pagina-1.2.jpg">
 <img src="images/screenshot-pagina-1.3.jpg" width="375px" alt="Screenshot-pagina-1.3">
 <img src="images/screenshot-pagina-1.4.jpg" width="375px" alt="Screenshot-pagina-1.4">
 <img src="images/screenshot-pagina-1.5.jpg" width="375px" alt="Screenshot-pagina-1.5">
